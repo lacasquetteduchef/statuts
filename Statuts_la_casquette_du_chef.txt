@@ -1,4 +1,4 @@
-﻿STATUTS de l’association « La casquette du chef »
+STATUTS de l’association « La casquette du chef »
 Association loi du 1er juillet 1901 et du décret du 16 août 1901.
 
 
@@ -12,14 +12,13 @@ ARTICLE 2 - OBJET
 
 Cette association a pour objet :
 
-De faciliter la communication de ses adhérents, notamment par la fourniture d’outils permettant, pour chaque adhérent :
-1. de centraliser et consulter les données de contacts des adhérents de manière privée.
-2. de communiquer à tout ou partie de ses adhérents facilement.
-3. de partager des informations aux seuls adhérents.
-
-De faciliter la création d’un système d’entraide permettant aux adhérents de partager leurs compétences, connaissances, relations, biens, entre eux ou par le concours éventuels de personnes extérieures à l’association.
-De faciliter l’organisation d’événements permettant aux membres de l’association de se réunir, notamment par la constitution d’une avance de trésorerie permettant la réservation de lieu de rassemblement, et manière générale l’avance de frais  liés à l’organisation de tels événements.
-De faciliter l’exercice d’activités économiques au sein de l’association ayant pour but le financement propre des frais de l’association ou des événements organisés par l’association.
+- De faciliter la communication de ses adhérents, notamment par la fourniture d’outils permettant, pour chaque adhérent :
+ 1. de centraliser et consulter les données de contacts des adhérents de manière privée.
+ 2. de communiquer à tout ou partie de ses adhérents facilement.
+ 3. de partager des informations aux seuls adhérents.
+- De faciliter la création d’un système d’entraide permettant aux adhérents de partager leurs compétences, connaissances, relations, biens, entre eux ou par le concours éventuels de personnes extérieures à l’association.
+- De faciliter l’organisation d’événements permettant aux membres de l’association de se réunir, notamment par la constitution d’une avance de trésorerie permettant la réservation de lieu de rassemblement, et manière générale l’avance de frais  liés à l’organisation de tels événements.
+- De faciliter l’exercice d’activités économiques au sein de l’association ayant pour but le financement propre des frais de l’association ou des événements organisés par l’association.
 
 ARTICLE 3 - SIÈGE SOCIAL 
 ------------------------
@@ -163,6 +162,6 @@ ARTICLE - 17 - DISSOLUTION
 En cas de dissolution prononcée selon les modalités prévues à l’article 12, un ou plusieurs liquidateurs sont nommés, et l'actif, s'il y a lieu, est dévolu conformément aux décisions de l’assemblée générale extraordinaire qui statue sur la dissolution.
 
 
-« Fait à….., le…. 20.. »
+« Fait à Montrouge, le 03/01/2016 »
 Signatures de deux représentants (nom, prénom et fonction) au minimum, nécessaires pour la formalité de déclaration de l’association.
 
